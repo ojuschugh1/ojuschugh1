@@ -58,7 +58,11 @@
 
 # 🌐 Connect with me:
 <p align="left">
-  <a href="https://github.com/ojuschugh1"></a>
+  
+  "https://github.com/ojuschugh1"
+  
+  
+  "ojuschugh@gmail.com" 
 
 </p>
 
