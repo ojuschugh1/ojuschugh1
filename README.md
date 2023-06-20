@@ -9,6 +9,8 @@
 
 -   👯 I’m looking to collaborate on **fun and/or useful open source projects.**
 
+-   👨‍💻 I'm open to full-time/part-time **software developer roles.**
+
 -   💬 Ask me about **node, mern stack, react, c++, web applications, anime, games.**
 
 -   🖧 Would love to **network** and join new **communities**, find people with similar **interests**.
