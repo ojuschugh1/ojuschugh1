@@ -16,7 +16,8 @@
 -   🖧 Would love to **network** and join new **communities**, find people with similar **interests**.
 
 -   ⚡ Fun fact: **Coders run on coffee ☕!**
-
+  
+-  For more details vist my personal website : https://ojuschugh.netlify.app/
 
 <br/>
 <br/>
