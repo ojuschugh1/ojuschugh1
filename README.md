@@ -3,7 +3,9 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=ojuschugh1&label=Profile%20views&color=0e75b6&style=flat" alt="ojuschugh1" /></p>
 
--   🔭 I’m currently working on **web3 project using ReactJS,NodeJS,Jarkata EE,ExpressJS.** 
+-   🔭 I’m currently working on **Gen AI, LLMs, CNN, Computer Vision.** 
+
+-   :-)  I have worked on **web3 project using ReactJS,NodeJS,Jarkata EE,ExpressJS.** 
 
 -   🌱 I’m planning on learning **GO, Web3, Flutter.**
 
