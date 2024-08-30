@@ -3,23 +3,23 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=ojuschugh1&label=Profile%20views&color=0e75b6&style=flat" alt="ojuschugh1" /></p>
 
--   🔭 I’m currently working on **Gen AI, LLMs, CNN, Computer Vision.** 
+-   🔭 I’m currently working on **Gen AI, LLMs, CNN, and Computer Vision.** 
 
--   :-)  I have worked on **web3 project using ReactJS,NodeJS,Jarkata EE,ExpressJS.** 
+-   :-)  I have worked on **web3 project using ReactJS, NodeJS, Jarkata EE/Java EE, and ExpressJS.** 
 
 -   🌱 I’m planning on learning **GO, Web3, Flutter.**
 
--   👯 I’m looking to collaborate on **fun and/or useful open source projects.**
+-   👯 I’m looking to collaborate on **fun and/or useful open-source projects.**
 
 -   👨‍💻 I'm open to full-time/part-time **software developer roles.**
 
--   💬 Ask me about **node, mern stack, react, c++, web applications, anime, games.**
+-   💬 Ask me about **Open Source, Python, node, mern stack, react, c++, web applications, AI/ML, anime, games.**
 
 -   🖧 Would love to **network** and join new **communities**, find people with similar **interests**.
 
 -   ⚡ Fun fact: **Coders run on coffee ☕!**
   
--  For more details vist my personal website : https://ojuschugh.netlify.app/
+-  For more details visit my personal website: https://ojuschugh.netlify.app/
 
 <br/>
 <br/>
