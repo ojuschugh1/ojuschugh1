@@ -19,7 +19,7 @@
 
 -   ⚡ Fun fact: **Coders run on coffee ☕!**
   
--  For more details visit my personal website: https://ojuschugh.netlify.app/
+-  For more details visit my personal website: https://ojuschugh1.github.io/
 
 <br/>
 <br/>
@@ -63,11 +63,15 @@
 
 # 🌐 Connect with me:
 <p align="left">
+
+
+  -> https://ojuschugh1.github.io/
+
   
-  "https://github.com/ojuschugh1"
+  -> https://github.com/ojuschugh1
+
+  -> https://ojuschugh.netlify.app/
   
-  
-  "ojuschugh@gmail.com" 
 
 </p>
 
