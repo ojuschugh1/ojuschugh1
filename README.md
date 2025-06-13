@@ -1,7 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ojus</h1>
-<h3 align="center">Fixing problems one bug at a time 😄!</h3>
-
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=ojuschugh1&label=Profile%20views&color=0e75b6&style=flat" alt="ojuschugh1" /></p>
+<h1 align="center">Hi 👋, I'm Ojus Chugh</h1> <h3 align="center">Solving problems, one bug at a time!</h3> <p align="center"> <a href="https://ojuschugh1.github.io/" title="Website">Website</a> • <a href="https://github.com/ojuschugh1" title="GitHub">GitHub</a> • <a href="https://play.google.com/store/apps/developer?id=Ojus+Chugh" title="Play Store">Play Store</a> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=ojuschugh1&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> </p>
 
 -   🔭 I’m currently working on **Gen AI, LLMs, CNN, and Computer Vision.** 
 
@@ -18,8 +15,6 @@
 -   🖧 Would love to **network** and join new **communities**, find people with similar **interests**.
 
 -   ⚡ Fun fact: **Coders run on coffee ☕!**
-  
--  For more details visit my personal website: https://ojuschugh1.github.io/
 
 <br/>
 <br/>
@@ -61,17 +56,25 @@
 <br/>
 <br/>
 
+# 🤝 I’m Open To Collaborate On
+### Open-Source Libraries
+
+### AI/ML Tooling
+
+### Full-Stack Web Apps
+
+
+<br/>
+<br/>
+
 # 🌐 Connect with me:
 <p align="left">
 
-
-  -> https://ojuschugh1.github.io/
-
+  <a href="https://x.com/Chugh_Ojus" title="X">X</a> 
   
-  -> https://github.com/ojuschugh1
+  <a href="https://fosstodon.org/@ojuschugh1" title="Mastodon">Mastodon</a>
 
-  -> https://ojuschugh.netlify.app/
-  
+    
 
 </p>
 
@@ -95,4 +98,14 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=ojuschugh1&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 </div>
+
+## “Strive not to be a success, but rather to be of value.” – Albert Einstein
+
+
+
+
+
+
+
+
 
