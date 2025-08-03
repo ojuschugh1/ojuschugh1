@@ -70,7 +70,7 @@
 # 🌐 Connect with me:
 <p align="left">
 
-  <a href="https://x.com/Chugh_Ojus" title="X">X</a> 
+  <a href="https://x.com/ojuschugh1" title="X">X</a> 
   
   <a href="https://fosstodon.org/@ojuschugh1" title="Mastodon">Mastodon</a>
 
