@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ojus Chugh</h1> <h3 align="center">Solving problems, one bug at a time!</h3> <p align="center"> <a href="https://ojuschugh1.github.io/" title="Website">Website</a> • <a href="https://github.com/ojuschugh1" title="GitHub">GitHub</a> • <a href="https://play.google.com/store/apps/dev?id=7863403747934807076" title="Play Store">Play Store</a> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=ojuschugh1&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> </p>
 
--   🔭 I’m currently working on **Gen AI, LLMs, CNN, and Computer Vision.** 
+-   🔭 I’m currently working on **GO, Gen AI, LLMs, CNN, and Computer Vision.** 
 
--   :-)  I have worked on **web3 project using ReactJS, NodeJS, Jarkata EE/Java EE, and ExpressJS.** 
+-   :-)  I have worked on **web3 project using ReactJS, NodeJS, Jarkata EE/Java EE, ExpressJS, and Android Apps.** 
 
--   🌱 I’m planning on learning **GO, Web3, Flutter.**
+-   🌱 I’m planning on learning **Ruby, Web3, Flutter.**
 
 -   👯 I’m looking to collaborate on **fun and/or useful open-source projects.**
 
