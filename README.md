@@ -80,6 +80,15 @@
 
 </p>
 
+# 🌐 Past Work:
+<p align="left">
+
+  <a href="https://mentorship.lfx.linuxfoundation.org/project/8ca351b0-168d-4b89-87ec-3a37a3c77cd1" title="Linux Foundation">Linux Foundation</a> 
+  
+  <a href="https://summerofcode.withgoogle.com/archive/2023/projects/R3i5iNpL" title="Google Summer Of Code">Google Summer Of Code</a>    
+
+</p>
+
 <br/>
 <br/>
 
