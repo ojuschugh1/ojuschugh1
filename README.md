@@ -2,7 +2,7 @@
 
 -   🔭 I’m currently working on **GO, Gen AI, LLMs, CNN, and Computer Vision.** 
 
--   :-)  I have worked on **web3 project using ReactJS, NodeJS, Jarkata EE/Java EE, ExpressJS, and Android Apps.** 
+-   :-)  I have worked on **web project using ReactJS, NodeJS, Jarkata EE/Java EE, ExpressJS, and Android Apps.** 
 
 -   🌱 I’m planning on learning **Ruby, Web3, Flutter.**
 
