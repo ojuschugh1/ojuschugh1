@@ -87,6 +87,8 @@
   
   <a href="https://summerofcode.withgoogle.com/archive/2023/projects/R3i5iNpL" title="Google Summer Of Code">Google Summer Of Code</a>    
 
+  <a href="https://api.github.com/search/issues?q=author:ojuschugh1+type:pr+is:merged+-user:ojuschugh1" title="All GitHub Contributions">All GitHub Contributions</a>
+
 </p>
 
 <br/>
