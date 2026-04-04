@@ -18,6 +18,8 @@
 | Project  | Description                                                             | Link                                         |
 | -------- | ----------------------------------------------------------------------- | -------------------------------------------- |
 | **Etch** | Detect API changes automatically using real traffic (no tests required) | [GitHub](https://github.com/ojuschugh1/etch) |
+| **GhostDep** | Detect phantom and unused dependencies across multiple languages using a fast Rust-based CLI | [GitHub](https://github.com/ojuschugh1/ghostdep) |
+
 
 ---
 
