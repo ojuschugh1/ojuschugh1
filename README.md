@@ -19,6 +19,8 @@
 | -------- | ----------------------------------------------------------------------- | -------------------------------------------- |
 | **Etch** | Detect API changes automatically using real traffic (no tests required) | [GitHub](https://github.com/ojuschugh1/etch) |
 | **GhostDep** | Detect phantom and unused dependencies across multiple languages using a fast Rust-based CLI | [GitHub](https://github.com/ojuschugh1/ghostdep) |
+| **ClaimCheck** | A local Rust CLI that verifies whether AI coding agents actually did what they claimed | [GitHub](https://github.com/ojuschugh1/claimcheck) |
+
 
 
 ---
