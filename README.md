@@ -4,6 +4,8 @@
 <p align="center">
   <a href="https://ojuschugh1.github.io/" title="Website">Website</a> •
   <a href="https://github.com/ojuschugh1" title="GitHub">GitHub</a> •
+  <a href="https://x.com/ojuschugh1">X</a> •
+  <a href="https://fosstodon.org/@ojuschugh1">Mastodon</a> •
   <a href="https://play.google.com/store/apps/dev?id=7863403747934807076" title="Play Store">Play Store</a>
 </p>
 
@@ -17,6 +19,7 @@
 
 | Project  | Description                                                             | Link                                         |
 | -------- | ----------------------------------------------------------------------- | -------------------------------------------- |
+| **SQZ** |  Compress LLM context to save tokens and reduce costs — Shell Hook + MCP Server + Browser Extension + IDE Extensions | [GitHub](https://github.com/ojuschugh1/sqz) |
 | **Etch** | Detect API changes automatically using real traffic (no tests required) | [GitHub](https://github.com/ojuschugh1/etch) |
 | **GhostDep** | Detect phantom and unused dependencies across multiple languages using a fast Rust-based CLI | [GitHub](https://github.com/ojuschugh1/ghostdep) |
 | **ClaimCheck** | A local Rust CLI that verifies whether AI coding agents actually did what they claimed | [GitHub](https://github.com/ojuschugh1/claimcheck) |
@@ -88,15 +91,6 @@
 * AI/ML Tooling
 * Full-Stack Web Apps
 * Android Apps, Web Extensions, Games
-
----
-
-# 🌐 Connect with me
-
-<p align="left">
-  <a href="https://x.com/ojuschugh1">X</a> |
-  <a href="https://fosstodon.org/@ojuschugh1">Mastodon</a>
-</p>
 
 ---
 
